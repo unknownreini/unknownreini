@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @unknownreini
+<h1> 👋 Hi, I’m @unknownreini</h1>
+
 - A student from Taiwan (or ROC if you don't mind)
-- 👀 I’m interested in ...
+<h2>👀 I’m interested in ...</h2>
+
 - Learning obj-c (maybe...)
-- 🌱 I’m currently learning ...
-- nothing (wait)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2>🌱 I’m currently learning ...</h2>
+
+  - nothing (wait)
+
+<h2>📫 How to reach me ...</h2>
+  
 - No one can reach me
 
 <!---
